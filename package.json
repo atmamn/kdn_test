@@ -6,8 +6,7 @@
   "scripts": {
     "start": "ts-node index.ts",
     "test": "jest",
-    "dev": "cross-env NODE_ENV=development nodemon --exec ts-node index.ts",
-    "build": "tsc"
+    "dev": "cross-env NODE_ENV=development nodemon --exec ts-node index.ts"
   },
   "keywords": [],
   "author": "",
