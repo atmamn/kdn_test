@@ -1,0 +1,185 @@
+2024-08-26T19:35:30.158Z [error]: Error processing payment callback: Server Error
+2024-08-26T19:39:15.947Z [error]: Error processing payment callback: Server Error
+2024-08-26T19:43:13.098Z [error]: Error processing payment callback: Server Error
+2024-08-26T19:45:12.742Z [error]: Error processing payment callback: Server Error
+2024-08-27T17:25:50.912Z [error]: Internal server error: No token provided Please try again later
+2024-08-27T17:32:35.752Z [error]: Forbidden: No active plan found
+2024-08-27T17:48:32.502Z [error]: Expired: User plan has expired
+2024-08-27T18:36:10.575Z [error]: Expired: User plan has expired
+2024-08-27T18:41:20.302Z [error]: Invalid or expired OTP: Unauthorized
+2024-08-27T18:41:36.071Z [error]: Invalid or expired OTP: Unauthorized
+2024-08-27T18:55:27.011Z [error]: Invalid or expired OTP: Unauthorized
+2024-08-28T15:13:49.086Z [error]: Internal server error: Could not load credentials from any providers Please try again later
+2024-08-28T15:34:52.579Z [error]: No file uploaded: Upload a file
+2024-08-28T16:16:48.680Z [error]: Internal server error: Invalid attribute value type Please try again later
+2024-08-28T16:24:23.106Z [error]: Internal server error: One or more parameter values were invalid: Type mismatch for key Please try again later
+2024-08-28T16:56:12.256Z [error]: Internal server error: cast.map is not a function Please try again later
+2024-08-28T17:00:07.772Z [error]: Internal server error: cast.map is not a function Please try again later
+2024-08-28T17:00:42.505Z [error]: Internal server error: cast.map is not a function Please try again later
+2024-08-28T17:01:16.186Z [error]: Internal server error: cast.map is not a function Please try again later
+2024-08-28T17:10:08.360Z [error]: Internal server error: cast.map is not a function Please try again later
+2024-08-28T17:14:01.258Z [error]: Internal server error: cast.map is not a function Please try again later
+2024-08-28T18:46:41.871Z [error]: Internal server error: Pass options.removeUndefinedValues=true to remove undefined values from map/array/set. Please try again later
+2024-08-28T19:30:02.105Z [error]: Client error: Missing required fields
+2024-08-28T19:45:14.381Z [error]: Internal server error: Invalid FilterExpression: Incorrect operand type for operator or function; operator or function: begins_with, operand type: M Please try again later
+2024-08-29T17:48:31.828Z [error]: Internal server error: The bucket you are attempting to access must be addressed using the specified endpoint. Please send all future requests to this endpoint. Please try again later
+2024-09-02T15:47:20.269Z [error]: Internal server error: jwt malformed Please try again later
+2024-09-02T15:47:21.278Z [error]: Internal server error: jwt malformed Please try again later
+2024-09-02T15:47:21.914Z [error]: Internal server error: jwt malformed Please try again later
+2024-09-02T15:52:24.106Z [error]: Internal server error: jwt malformed Please try again later
+2024-09-02T15:52:24.826Z [error]: Internal server error: jwt malformed Please try again later
+2024-09-02T15:52:25.936Z [error]: Internal server error: jwt malformed Please try again later
+2024-09-02T15:57:49.981Z [error]: Invalid credentials: Invalid credentials
+2024-09-02T15:59:13.849Z [error]: Invalid credentials: Invalid credentials
+2024-09-02T16:12:27.907Z [error]: Not Found: No user found
+2024-09-02T16:12:28.899Z [error]: Not Found: No user found
+2024-09-03T16:50:42.870Z [error]: Unauthorized: No token provided
+2024-09-03T17:20:09.852Z [error]: Internal server error: The table does not have the specified index: CategoryIndex Please try again later
+2024-09-03T17:51:25.972Z [error]: Unauthorized: No token provided
+2024-09-03T20:28:49.768Z [error]: Internal server error: Invalid ProjectionExpression: Attribute name is a reserved keyword; reserved keyword: cast Please try again later
+2024-09-03T20:30:14.022Z [error]: Not Found: No Cast Found
+2024-09-04T15:34:42.927Z [error]: Internal server error: Failed to upload cast and images
+2024-09-04T15:37:04.366Z [error]: Client error: Missing required fields
+2024-09-04T15:49:25.137Z [error]: Internal server error: No value provided for input HTTP label: Bucket. Please try again later
+2024-09-04T17:47:40.954Z [error]: Unauthorized: No token provided
+2024-09-04T17:47:59.575Z [error]: Unauthorized: No token provided
+2024-09-05T15:51:17.616Z [error]: Client error: Missing required fields
+2024-09-05T15:53:01.634Z [error]: Client error: Missing required fields
+2024-09-05T15:54:01.435Z [error]: Client error: Missing required fields
+2024-09-05T15:56:35.275Z [error]: Client error: Missing required fields
+2024-09-05T16:01:49.089Z [error]: Client error: Missing required fields
+2024-09-05T16:02:29.312Z [error]: Client error: Missing required
+2024-09-05T16:03:26.159Z [error]: Client error: Missing required fields
+2024-09-05T16:06:50.980Z [error]: Client error: Missing required fields
+2024-09-05T16:08:13.536Z [error]: Client error: Missing required fields
+2024-09-05T16:08:56.561Z [error]: Client error: Missing required fields
+2024-09-05T16:11:29.311Z [error]: Video and poster files are required: Upload files
+2024-09-05T16:13:58.213Z [error]: Client error: Missing required fields
+2024-09-05T16:23:40.955Z [error]: Client error: Missing required fields
+2024-09-09T17:05:53.678Z [error]: Invalid credentials: Invalid credentials
+2024-09-09T17:31:01.375Z [error]: Conflict: Video already exists in your list
+2024-09-09T17:32:36.776Z [error]: Conflict: Video already exists in your list
+2024-09-09T17:43:18.376Z [error]: Unauthorized: No token provided
+2024-09-09T17:45:25.789Z [error]: Conflict: Video already exists in your list
+2024-09-09T18:49:38.541Z [error]: Conflict: Video already exists in your list
+2024-09-11T15:35:48.811Z [error]: Unauthorized: No token provided
+2024-09-11T15:36:11.334Z [error]: Client error: Missing required category
+2024-09-11T15:38:32.911Z [error]: Unauthorized: No token provided
+2024-09-11T16:04:03.692Z [error]: Unauthorized: No token provided
+2024-09-11T16:09:37.401Z [error]: Conflict: Video already exists in your list
+2024-09-11T16:10:22.166Z [error]: Conflict: Video already exists in your list
+2024-09-11T16:13:37.749Z [error]: Client error: Missing required videoId
+2024-09-11T16:14:30.465Z [error]: Conflict: Video already exists in your list
+2024-09-11T17:18:55.088Z [error]: Unauthorized: No token provided
+2024-09-11T17:18:59.917Z [error]: Client error: Missing videoId
+2024-09-11T17:19:43.416Z [error]: Internal server error: Invalid UpdateExpression: Invalid function name; function: list_remove Please try again later
+2024-09-11T17:22:17.444Z [error]: Internal server error: Invalid UpdateExpression: Invalid function name; function: list_remove Please try again later
+2024-09-11T17:22:48.612Z [error]: Internal server error: Invalid UpdateExpression: Invalid function name; function: list_remove Please try again later
+2024-09-11T17:26:06.536Z [error]: Not Found: Video does not exist in your list
+2024-09-11T17:27:37.004Z [error]: Internal server error: Invalid UpdateExpression: Invalid function name; function: list_remove Please try again later
+2024-09-12T16:41:30.768Z [error]: Client error: Missing required category
+2024-09-12T17:32:52.381Z [error]: No videos found: No videos found in the user list
+2024-09-12T17:34:02.484Z [error]: No videos found: No videos found in the user list
+2024-09-12T17:34:12.034Z [error]: No videos found: No videos found in the user list
+2024-09-12T17:34:32.462Z [error]: No videos found: No videos found in the user list
+2024-09-12T20:43:55.458Z [error]: Unauthorized: No token provided
+2024-09-12T20:45:26.419Z [error]: Client error: Missing required fields
+2024-09-17T16:21:48.783Z [error]: Client error: Rating already exists
+2024-09-17T16:22:59.320Z [error]: Client error: Rating already exists
+2024-09-17T16:44:21.674Z [error]: Client error: Rating already exists
+2024-09-17T16:47:04.337Z [error]: Client error: Rating already exists
+2024-09-17T16:58:12.247Z [error]: Unauthorized: No token provided
+2024-09-17T17:29:03.899Z [error]: Client error: Rating already exists
+2024-09-17T17:43:33.921Z [error]: Unauthorized: No token provided
+2024-09-17T17:43:58.817Z [error]: Client error: Missing required videoId
+2024-09-17T18:57:24.186Z [error]: Client error: Rating already exists
+2024-09-17T18:58:35.449Z [error]: Client error: Rating already exists
+2024-09-23T20:38:56.166Z [error]: Unauthorized: No token provided
+2024-09-25T19:17:20.318Z [error]: Unauthorized: No token provided
+2024-09-25T19:18:13.221Z [error]: Client error: Missing required videoId or category
+2024-09-25T19:20:11.690Z [error]: Client error: Missing required videoId or category
+2024-10-01T15:45:47.210Z [error]: Not Found: No user found
+2024-10-01T15:45:49.885Z [error]: Not Found: No user found
+2024-10-02T17:41:44.324Z [error]: Unauthorized: No token provided
+2024-10-02T17:42:49.154Z [error]: Client error: Missing required fields
+2024-10-02T17:48:14.946Z [error]: Unauthorized: No token provided
+2024-10-02T17:49:08.143Z [error]: Client error: Missing required fields
+2024-10-02T19:01:22.014Z [error]: Client error: Missing required category or videoId
+2024-10-02T19:02:03.325Z [error]: Client error: Missing required category or videoId
+2024-10-03T16:09:39.722Z [error]: Not Found: No videos found
+2024-10-03T16:10:31.892Z [error]: Not Found: No videos found
+2024-10-03T16:29:46.237Z [error]: Not Found: No videos found
+2024-10-10T15:53:52.181Z [error]: Invalid input: Missing required fields
+2024-10-10T16:02:14.113Z [error]: User already exists: User already exists
+2024-10-10T16:03:41.754Z [error]: Client error: User already exists
+2024-10-10T17:55:57.027Z [error]: Internal server error: jwt malformed Please try again later
+2024-10-10T19:38:37.778Z [error]: Invalid input: Missing required fields
+2024-10-10T20:22:13.297Z [error]: Internal server error: No token provided Please try again later
+2024-10-10T20:27:18.667Z [error]: SyntaxError: Expected double-quoted property name in JSON at position 67
+2024-10-10T20:28:21.144Z [error]: Invalid credentials: Invalid credentials
+2024-10-10T21:28:37.770Z [error]: Internal server error: jwt malformed Please try again later
+2024-10-10T21:29:48.887Z [error]: Internal server error: jwt malformed Please try again later
+2024-10-10T21:29:49.281Z [error]: Internal server error: jwt malformed Please try again later
+2024-10-10T21:31:42.658Z [error]: Internal server error: jwt malformed Please try again later
+2024-10-12T01:51:48.375Z [error]: Internal server error: jwt malformed Please try again later
+2024-10-12T01:57:21.619Z [error]: Internal server error: No token provided Please try again later
+2024-10-12T01:58:38.001Z [error]: Internal server error: No token provided Please try again later
+2024-10-12T01:58:49.404Z [error]: Internal server error: No token provided Please try again later
+2024-10-12T02:07:07.660Z [error]: Not Found: User plan not found
+2024-10-12T02:11:30.257Z [error]: Not Found: User plan not found
+2024-10-12T02:11:38.795Z [error]: Not Found: User plan not found
+2024-10-12T02:21:38.568Z [error]: Client error: User already exists
+2024-10-12T02:23:07.474Z [error]: Not Found: User plan not found
+2024-10-12T02:26:54.818Z [error]: Not Found: User plan not found
+2024-10-12T02:27:02.626Z [error]: Not Found: User plan not found
+2024-10-12T02:27:24.712Z [error]: Internal server error: jwt malformed Please try again later
+2024-10-12T02:27:52.983Z [error]: Not Found: User plan not found
+2024-10-12T02:33:07.194Z [error]: Not Found: User plan not found
+2024-10-12T02:35:17.318Z [error]: Not Found: User plan not found
+2024-10-12T02:38:12.550Z [error]: Not Found: User plan not found
+2024-10-12T02:39:25.238Z [error]: Not Found: User plan not found
+2024-10-12T02:42:46.313Z [error]: Not Found: User plan not found
+2024-10-12T02:54:28.071Z [error]: Not Found: User plan not found
+2024-10-13T12:16:58.615Z [error]: Not Found: User plan not found
+2024-10-13T12:17:02.081Z [error]: Not Found: User plan not found
+2024-10-13T12:17:20.592Z [error]: Internal server error: jwt malformed Please try again later
+2024-10-13T12:17:48.132Z [error]: Not Found: User plan not found
+2024-10-13T12:22:09.937Z [error]: Not Found: User plan not found
+2024-10-13T12:42:11.325Z [error]: Not Found: User plan not found
+2024-10-13T12:42:16.444Z [error]: Not Found: User plan not found
+2024-10-13T12:42:20.402Z [error]: Not Found: User plan not found
+2024-10-13T12:58:16.197Z [error]: Internal server error: jwt malformed Please try again later
+2024-10-13T12:58:42.262Z [error]: Not Found: User plan not found
+2024-10-13T13:23:53.664Z [error]: Not Found: User plan not found
+2024-10-13T13:24:00.453Z [error]: Not Found: User plan not found
+2024-10-13T13:24:19.583Z [error]: Not Found: User plan not found
+2024-10-13T13:25:04.962Z [error]: Not Found: User plan not found
+2024-10-13T13:25:08.706Z [error]: Not Found: User plan not found
+2024-10-13T13:25:47.573Z [error]: Not Found: User plan not found
+2024-10-13T13:28:39.160Z [error]: Not Found: User plan not found
+2024-10-13T13:31:47.274Z [error]: Not Found: User plan not found
+2024-10-13T13:32:44.322Z [error]: Not Found: User plan not found
+2024-10-13T13:32:50.425Z [error]: Not Found: User plan not found
+2024-10-13T13:34:22.758Z [error]: Not Found: User plan not found
+2024-10-13T13:42:35.198Z [error]: Not Found: User plan not found
+2024-10-13T13:43:01.231Z [error]: Not Found: User plan not found
+2024-10-13T13:44:02.471Z [error]: Not Found: User plan not found
+2024-10-13T13:44:34.298Z [error]: Not Found: User plan not found
+2024-10-13T13:45:41.086Z [error]: Not Found: User plan not found
+2024-10-13T13:51:05.377Z [error]: Not Found: User plan not found
+2024-10-13T14:03:55.743Z [error]: Not Found: User plan not found
+2024-10-13T14:04:04.573Z [error]: Not Found: User plan not found
+2024-10-13T14:05:34.565Z [error]: Not Found: User plan not found
+2024-10-13T14:07:18.828Z [error]: Internal server error: The product prod_QziJRbLsvjAtEw is marked as inactive, and thus no new subscriptions can be create to any plans of this product. You provided the plan price_1Q7itBEkS7lEmAemxUF6wdtG. Please try again later
+2024-10-13T14:17:10.756Z [error]: Not Found: User plan not found
+2024-10-13T14:17:38.715Z [error]: Not Found: User plan not found
+2024-10-13T14:18:04.763Z [error]: Internal server error: The product prod_QziJRbLsvjAtEw is marked as inactive, and thus no new subscriptions can be create to any plans of this product. You provided the plan price_1Q7itBEkS7lEmAemxUF6wdtG. Please try again later
+2024-10-13T14:19:34.952Z [error]: Not Found: User plan not found
+2024-10-13T14:19:42.173Z [error]: Not Found: User plan not found
+2024-10-13T14:23:22.009Z [error]: Not Found: User plan not found
+2024-11-13T21:02:06.703Z [error]: Unauthorized: No token provided
+2024-11-15T06:44:37.989Z [error]: Internal server error: The security token included in the request is invalid. Please try again later
+2024-11-15T06:51:03.756Z [error]: User not found: No user found with this email
+2024-11-15T06:55:11.082Z [error]: Internal server error: The security token included in the request is invalid. Please try again later
+2024-11-15T11:59:30.971Z [error]: User not found: No user found with this email
+2024-11-15T12:00:34.046Z [error]: Not Found: User plan not found
