@@ -58,7 +58,7 @@ app.use(errorHandler);
 //   }
 // });
 
-const port = parseInt(process.env.PORT as string, 10) || 4192;
+const port = process.env.PORT || 4192;
 server.listen(port, () => {
   console.log("Server started on port " + port);
 });
